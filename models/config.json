@@ -1,0 +1,16 @@
+{
+    "vocab_size": 380,
+    "max_context_len": 8,
+    "test_loss": 5.62159538269043,
+    "test_accuracy": 0.13978494703769684,
+    "top1_accuracy": 0.13978494623655913,
+    "top3_accuracy": 0.21505376344086022,
+    "top5_accuracy": 0.25806451612903225,
+    "dataset_sentences": 190,
+    "training_sentences": 152,
+    "validation_sentences": 19,
+    "test_sentences": 19,
+    "training_samples": 803,
+    "validation_samples": 97,
+    "test_samples": 93
+}
